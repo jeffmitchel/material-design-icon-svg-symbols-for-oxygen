@@ -4,7 +4,7 @@ The Material Design icons packaged as SVG symbols for import into Oxygen Builder
 
 ## Original Source
 
-These icons were sourced from [Google's Material Design project](https://github.com/google/material-design-icons/tree/master/sprites):
+These icons were sourced from [Google's Material Design project](https://github.com/google/material-design-icons/tree/master/sprites).
 
 ## Installing
 
